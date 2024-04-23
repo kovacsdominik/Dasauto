@@ -7,7 +7,7 @@
 body{
     height: 100vh;
     background-color: black;
-    background-image: url(németzászló.png);
+    background-image: url(background.jpg);
     background-position: center;
     background-size: cover; 
 }
