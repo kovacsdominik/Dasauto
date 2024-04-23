@@ -4,6 +4,11 @@
     box-sizing: border-box;
     font-family: 'Open sans', sans-serif;
 }
+body{
+    width: 100vh;
+    background-image: url(background.jpg)
+    
+}
 li{
     list-style: none;
 }
@@ -20,9 +25,6 @@ a:hover{
 header{
     position: relative;
     padding: 0 2rem;
-    background-image: url(németzászló.png);
-    background-size: cover;
-    background-position: center;
 }
 .navbar{
     width: 100%;
