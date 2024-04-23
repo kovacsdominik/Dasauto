@@ -6,8 +6,9 @@
 }
 body{
     width: 100vh;
-    background-image: url(background.jpg)
-    
+    background-position: center;
+    background-size: cover;
+    background-image: url(németzászló.png); 
 }
 li{
     list-style: none;
