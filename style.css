@@ -5,10 +5,11 @@
     font-family: 'Open sans', sans-serif;
 }
 body{
-    width: 100vh;
+    height: 100vh;
+    background-color: black;
+    background-image: url(németzászló.png);
     background-position: center;
-    background-size: cover;
-    background-image: url(németzászló.png); 
+    background-size: cover; 
 }
 li{
     list-style: none;
