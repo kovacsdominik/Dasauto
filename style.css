@@ -6,10 +6,6 @@
 }
 body{
     height: 100vh;
-    background-color: #000;
-    background-image: url(background.jpg);
-    background-size: cover;
-    background-position: center;
 }
 li{
     list-style: none;
@@ -27,6 +23,9 @@ a:hover{
 header{
     position: relative;
     padding: 0 2rem;
+    background-image: url(németzászló.png);
+    background-size: cover;
+    background-position: center;
 }
 .navbar{
     width: 100%;
