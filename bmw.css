@@ -6,6 +6,7 @@
 }
 .hattervideo{
     width: 100%;
+    display: flex;
 }
 li{
     list-style: none;
