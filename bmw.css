@@ -119,3 +119,7 @@ header{
 .feliratkoz{
     background-color: orange;
 }
+.feliratkoz:hover{
+    background-color: black;
+    color: orange;
+}
