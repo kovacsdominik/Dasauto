@@ -4,19 +4,8 @@
     box-sizing: border-box;
     font-family: 'Open sans', sans-serif;
 }
-body{
-    height: 100vh;
-    background-color: #000;
-    background-image: url(background.jpg);
-    background-size: cover;
-    background-position: center;
-}
 .hattervideo{
-    
-    width: 100vh;
-    display: flex;
-    border: #000 solid;
-    border-radius: 8px;
+    width: 100%;
 }
 li{
     list-style: none;
@@ -95,6 +84,7 @@ header{
 }
 .dropdown_menu.open{
     height: 290px;
+    display: block;
 }
 .dropdown_menu li{
     padding: 0.7rem;
@@ -124,4 +114,8 @@ header{
         width: unset;
 
     }
+}
+/*Kapcsolat*/
+.feliratkozas{
+    background-color: orange;
 }
