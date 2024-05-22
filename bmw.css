@@ -20,6 +20,9 @@ a:hover{
     color: orange;
 }
 /*header*/
+.nav1{
+    color: white;
+}
 
 header{
     position: relative;
